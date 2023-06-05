@@ -1,5 +1,7 @@
 # 👾 Alperen ERGEL
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tubakvgc" alt="alpernae" /> </p>
+
 **` Jr. Full Stack Developer | Vulnerability Researcher`**
 
 

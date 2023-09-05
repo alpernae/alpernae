@@ -53,8 +53,10 @@ Hi everyone, I am Alperen 21 years old. I am a BAUN business management and Anad
 ### 📊 Stats
 
 <br>
+<div align="center">
+  <a href="https://open.spotify.com/user/nn0ml58k1umonv0p3o63rozce">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=10&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
-![Alperen's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpernae&theme=default&show_icons=true)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpernae&layout=compact)](https://github.com/alpernae/github-readme-stats)
+###

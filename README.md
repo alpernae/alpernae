@@ -55,7 +55,7 @@ Hi everyone, I am Alperen 21 years old. I am a BAUN business management and Anad
 <br>
 <div align="center">
   <a href="https://open.spotify.com/user/nn0ml58k1umonv0p3o63rozce">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=10&unique=true" alt="Spotify recently played"  />
+   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nn0ml58k1umonv0p3o63rozce&unique={true|1|on|yes})
   </a>
 </div>
 

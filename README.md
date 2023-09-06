@@ -50,6 +50,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/alpernae/alpernae/snake.svg" alt="Snake animation" />
+<img src="https://github.com/alpernae/alpernae/blob/35826281b54ca7d0c9eeb1ba92ba0cd1d3dce5a1/snake.svg" alt="Snake animation" />
 
 ###

@@ -1,4 +1,4 @@
-<img align="right" height="370" src="https://media4.giphy.com/media/iti2TdRUORN3VcNppv/giphy.gif?cid=ecf05e47xf75ekmnaas5fxca8s087xjh9jcs8lave8ux4cdf&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+<img align="right" height="400" src="https://media4.giphy.com/media/iti2TdRUORN3VcNppv/giphy.gif?cid=ecf05e47xf75ekmnaas5fxca8s087xjh9jcs8lave8ux4cdf&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<div align="right">
+<div align="left">
   <a href="https://instagram.com/alpernae" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>

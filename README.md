@@ -3,7 +3,6 @@
 ###
 
 <p align="left">
-Meet Alperen
 Hi! I'm Alperen. I'm a 21-year-old student pursuing a degree in Computer Programming. My passion for computers led me to the fields of cybersecurity and web programming.
 I've been fascinated by cybersecurity since 2014. I spend my time researching and fixing security vulnerabilities. Platforms like HTB and root-me have helped me enhance my knowledge and skills in this area.
 I also actively participate in bug bounty hunting as a part-time gig. This allows me to gain hands-on experience in identifying and resolving security vulnerabilities in real-world scenarios. These experiences have further enriched and solidified my knowledge and skills in cybersecurity and web programming.

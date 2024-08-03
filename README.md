@@ -3,7 +3,9 @@
 ###
 
 <p align="left">
-Hi there, I'm Alperen, a Full Stack Web Developer and Cybersecurity Researcher with two years of experience. I've discovered vulnerabilities in open-source CMS and participated in bug bounty programs. 
+👋 Hi there! I'm Alperen, a passionate Full Stack Web Developer and Cybersecurity Researcher with two years of experience. I specialize in building secure, efficient, and user-friendly web applications using modern technologies like React, Node.js, and more.
+
+🔒 My journey into cybersecurity has led me to discover vulnerabilities in open-source CMS platforms, and I've actively participated in bug bounty programs, contributing to making the web a safer place. I'm always eager to learn, share, and collaborate on projects that push the boundaries of what's possible.
 </p>
 
 ###

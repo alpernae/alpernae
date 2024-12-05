@@ -1,11 +1,7 @@
-
-
 ###
 
 <p align="left">
-👋 Hi there! I'm Alperen, currently in my final year of an associate degree in Computer Programming. My focus is on <bold>Application Security</bold> and <bold>Bug Bounty</bold> Hunting. With hands-on experience in identifying and fixing vulnerabilities in web applications, I've contributed to making the web a safer place. I'm passionate about continuous learning and collaborating on projects that enhance security.
-
-🔒 My journey into cybersecurity has led me to discover vulnerabilities in open-source CMS platforms, and I've actively participated in bug bounty programs, contributing to making the web a safer place. I'm always eager to learn, share, and collaborate on projects that push the boundaries of what's possible.
+👋 Hi there! I'm Alperen, a final-year Computer Programming associate degree student with a focus on Application Security and Bug Bounty Hunting. With hands-on experience in identifying and fixing vulnerabilities in web applications, I've actively contributed to making the web a safer place. My journey in cybersecurity has led me to discover vulnerabilities in open-source CMS platforms and participate in bug bounty programs. I'm passionate about continuous learning and collaborating on projects that push the boundaries of what's possible.
 </p>
 
 ###

@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey, I’m Alperen Ergul! 🔒</h1>
+  <h1>Hey, I’m Alperen Ergel! 🔒</h1>
   <p>Final-year Computer Programming student | Application Security Researcher | Bug Bounty Enthusiast</p>
 </div>
 

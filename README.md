@@ -1,55 +1,41 @@
-###
+# Hey, I’m Alperen Ergel! 🔒
 
-<p align="left">
-👋 Hi there! I'm Alperen, a final-year Computer Programming associate degree student with a focus on Application Security and Bug Bounty Hunting. With hands-on experience in identifying and fixing vulnerabilities in web applications, I've actively contributed to making the web a safer place. My journey in cybersecurity has led me to discover vulnerabilities in open-source CMS platforms and participate in bug bounty programs. I'm passionate about continuous learning and collaborating on projects that push the boundaries of what's possible.
-</p>
+Hey there! I’m a final-year Computer Programming student turned Application Security Researcher. I live for finding vulnerabilities, building tools, and making the web a safer place. Bug bounties, AI, and a good fuzzing session are my jam.
 
-###
+## 🕵️‍♂️ About Me
+- 🔍 **Focus**: Slaying web app vulnerabilities and hunting bugs.
+- 🛠️ **Working On**: [AIHTTPAnalyzer](https://github.com/alpernae/AIHTTPAnalyzer) — AI-powered security magic for Burp Suite.
+- 🌟 **Learning**: AI-driven security and GoLang mastery.
+- 🎉 **Fun Fact**: I once found a critical bug while sipping coffee at 3 AM—caffeine is my secret weapon!
 
-<br clear="both">
+## ⚙️ Skills
+| **Category**         | **Details**                         |
+|----------------------|-------------------------------------|
+| Languages            | Python, JavaScript, C#, Golang, bash script |
+| Tools                | Burp Suite, Git, AI Frameworks, VScode  |
+| Expertise            | Web Security, Bug Bounty Hunting   |
 
-<div align="left">
-  <a href="https://instagram.com/alpernae" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://twitter.com/alpernae" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/alperenae/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-</div>
+## 🚀 Featured Projects
+- **[AIHTTPAnalyzer](https://github.com/alpernae/AIHTTPAnalyzer)**  
+  A Burp Suite extension that uses AI to catch vulnerabilities faster than a speeding packet.
+- **[GoFuzz](https://github.com/alpernae/gofuzz)**  
+  Simple and efficient open-source fuzzing scanner.
+- **[crab-crypt](https://github.com/alpernae/crab-crypt)**  
+  crap-crypt Linux is a ransomware malware that can run on Linux systems.
+- **[endpointfinder](https://github.com/alpernae/endpointfinder)**  
+  A bookmarklet scans the current webpage for endpoints and displays them in an overlay.
 
-###
+## 📈 My Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=alpernae&show_icons=true&theme=transparent)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alpernae&layout=compact&theme=transparent)
 
-<h3 align="left">Coding Languages 📝🔍 and Development Tools 🧰💻</h3>
+## 📡 Connect With Me
+- **X**: [@alpernae](https://x.com/alpernae)  
+- **LinkedIn**: [alperenae](https://www.linkedin.com/in/alperenae/)  
+- **Site**: [alpernae.github.io](https://alpernae.github.io/) — Check my cyber-cat!
 
-###
+## 💡 Security Mantra
+> "Code is only as secure as the last bug you fixed."
 
-<br clear="both">
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://github.com/alpernae/alpernae/blob/35826281b54ca7d0c9eeb1ba92ba0cd1d3dce5a1/snake.svg" alt="Snake animation" />
-
-###
+## 👇 Who’s Here?
+![Visitors](https://komarev.com/ghpvc/?username=alpernae&color=green)

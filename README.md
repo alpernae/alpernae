@@ -48,24 +48,6 @@ Hey there! I’m a security nerd who thrives on uncovering vulnerabilities, craf
 </div>
 
 ---
-
-## 📡 Connect With Me
-- **X**: [@alpernae](https://x.com/alpernae)  
-- **LinkedIn**: [alpernae](https://www.linkedin.com/in/alpernae/)  
-- **Website**: [alpernae.github.io](https://alpernae.github.io/) — Say hi to my cyber-cat!
-
-<div align="center">
-  <a href="https://x.com/alpernae"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.linkedin.com/in/alpernae/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</div>
-
----
-
-## 💡 Security Mantra
-> "Code’s only as secure as the last bug you patched."
-
----
-
 ## 👀 Visitors
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=alpernae&color=green" alt="Visitor Count" />

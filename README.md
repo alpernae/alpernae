@@ -3,13 +3,13 @@
 <h3>Application Security Researcher</h3>
   <img src="https://komarev.com/ghpvc/?username=alpernae&color=green" alt="Visitor Count" /> <img src="https://img.shields.io/github/stars/alpernae?style=flat&logo=github&label=Total%20Stars&color=white"/></a>
 </div>
-<p align="center">   
+<p align="left">   
   I’m an application security researcher and tool developer who treats security as a product feature.  
   I hunt vulnerabilities through bug bounties, run intensive fuzzing campaigns, and build automation  
   to catch flaws earlier in the pipeline. I’m exploring AI-assisted triage and detection to scale secure  
   development across teams. Always open to collaborating on tooling, audits, or POCs. </p>
 
-<div align="center">
+<div align="left">
 
 [![Github Badge](https://img.shields.io/badge/-@alpernae-FFFFFF?style=flat&logo=Github&logoColor=black&link=https://github.com/alpernae)](https://github.com/alpernae)
 [![HackerOne](https://img.shields.io/badge/HackerOne-FFFFFF?style=flat&logo=hackerone&logoColor=black)](https://hackerone.com/alpernae?type=user) 
@@ -18,25 +18,27 @@
   
 </div>
 
+
+### What I’m Building & Learning
+
+🔍 **Focus:** Crushing app vulnerabilities, hunting bugs, and automating security testing.
+
+🛠️ **Current Project:** [AuthMutator](https://github.com/alpernae/AuthMutator) — Burp Suite extension for experimenting with authentication issues and attack simulations.
+
+🌱 **Learning:** **Game Hacking** — exploring memory manipulation, cheat detection, and reverse engineering.
+
+🤝 **Collaborating On:** Open-source tooling for CI/CD security and automated app-sec workflows.
+
+💡 **Fun Fact:** I once found a critical bug at 3 AM fueled by coffee and sheer curiosity — caffeine + curiosity = 🔥.
+
+
 ### Reported CVEs
 
 - **CVE-2024-40422** – Path Traversal in DEVIKA-AI. [Details](https://nvd.nist.gov/vuln/detail/CVE-2024-40422)
 - **CVE-2022-54321** – SQL Injection in an E‑Commerce CMS. [Details](https://nvd.nist.gov/vuln/detail/CVE-2022-28132)
 - **CVE-2020-35241** – Cross-site Scripting in FlatPress CMS. [Details](https://nvd.nist.gov/vuln/detail/CVE-2020-35241)
 
-### Highlighted Projects
-- **[AuthMutator](https://github.com/alpernae/AuthMutator)**  
-  _Auth Mutator is a Burp Suite extension that helps you experiment with mutated authentication requests._
-- **[AIHTTPAnalyzer](https://github.com/alpernae/AIHTTPAnalyzer)**  
-  _A Burp Suite extension using AI to snag vulnerabilities at lightning speed._
-- **[GoFuzz](https://github.com/alpernae/gofuzz)**  
-  _A sleek, open-source fuzzing scanner built for efficiency._
-- **[crab-crypt](https://github.com/alpernae/crab-crypt)**  
-  _A ransomware demo for Linux—proof that even crabs can lock files._
-- **[endpointfinder](https://github.com/alpernae/endpointfinder)**  
-  _A bookmarklet that hunts webpage endpoints and displays them in an overlay._
-
- ### Tech Stack & Tools
+### Tech Stack & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)

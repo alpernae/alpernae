@@ -49,7 +49,7 @@ I actively hunt for security flaws and share my findings responsibly. Here are a
 
 I love sharing what I learn from my security research and bug bounty adventures. Here’s a glimpse of my recent posts:
 
-+ [**Uncovering Path Traversal in Devika v1: A Deep Dive into CVE-2024-40422**](https://medium.com/@alpernae/sql-injection-prevention)   
++ [**Uncovering Path Traversal in Devika v1: A Deep Dive into CVE-2024-40422**](https://medium.com/@alpernae/uncovering-path-traversal-in-devika-v1-a-deep-dive-into-cve-2024-40422-f8ce81398b99)   
   _I walk through how I discovered this path traversal vulnerability in Devika v1, the risks it posed, and the steps I took to mitigate it._
   
 

@@ -34,9 +34,24 @@
 
 ### Reported CVEs
 
-- **CVE-2024-40422** – Path Traversal in DEVIKA-AI. [Details](https://nvd.nist.gov/vuln/detail/CVE-2024-40422)
-- **CVE-2022-54321** – SQL Injection in an E‑Commerce CMS. [Details](https://nvd.nist.gov/vuln/detail/CVE-2022-28132)
-- **CVE-2020-35241** – Cross-site Scripting in FlatPress CMS. [Details](https://nvd.nist.gov/vuln/detail/CVE-2020-35241)
+I actively hunt for security flaws and share my findings responsibly. Here are a few notable vulnerabilities I've uncovered:
+
+- **CVE-2024-40422** – Path Traversal in DEVIKA-AI. [Details](https://nvd.nist.gov/vuln/detail/CVE-2024-40422)  
+  This vulnerability allowed attackers to access sensitive files on the server, highlighting the importance of strict input validation in AI platforms.
+
+- **CVE-2022-54321** – SQL Injection in an E‑Commerce CMS. [Details](https://nvd.nist.gov/vuln/detail/CVE-2022-28132)  
+  A classic SQL injection flaw that could expose customer data. It reinforced my focus on automating detection of injection issues in web applications.
+
+- **CVE-2020-35241** – Cross-site Scripting in FlatPress CMS. [Details](https://nvd.nist.gov/vuln/detail/CVE-2020-35241)  
+  This XSS vulnerability demonstrated how even small content management systems can pose significant security risks if input is not properly sanitized.
+
+### Blog & Write-Ups
+
+I love sharing what I learn from my security research and bug bounty adventures. Here’s a glimpse of my recent posts:
+
++ [**Uncovering Path Traversal in Devika v1: A Deep Dive into CVE-2024-40422**](https://medium.com/@alpernae/sql-injection-prevention)   
+  _I walk through how I discovered this path traversal vulnerability in Devika v1, the risks it posed, and the steps I took to mitigate it._
+  
 
 ### Tech Stack & Tools
 

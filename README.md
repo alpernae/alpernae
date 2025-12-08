@@ -13,8 +13,8 @@
 
 [![Github Badge](https://img.shields.io/badge/-@alpernae-FFFFFF?style=flat&logo=Github&logoColor=black&link=https://github.com/alpernae)](https://github.com/alpernae)
 [![HackerOne](https://img.shields.io/badge/HackerOne-FFFFFF?style=flat&logo=hackerone&logoColor=black)](https://hackerone.com/alpernae?type=user) 
-![Intigriti](https://img.shields.io/badge/Intigriti-FFFFFF?style=flat&logo=intigriti&logoColor=black)
-![Exploit_DB](https://img.shields.io/badge/Exploit_DB-FFFFFF?style=flat&logo=exploitdb&logoColor=black)
+[![Intigriti](https://img.shields.io/badge/Intigriti-FFFFFF?style=flat&logo=intigriti&logoColor=black)](https://app.intigriti.com/profile/alpernae)
+[![Exploit_DB](https://img.shields.io/badge/Exploit_DB-FFFFFF?style=flat&logo=exploitdb&logoColor=black)](https://www.exploit-db.com/?author=10463)
   
 </div>
 

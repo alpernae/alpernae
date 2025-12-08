@@ -21,7 +21,7 @@
 
 ### What I’m Building & Learning
 
-🔍 **Focus:** Crushing app vulnerabilities, hunting bugs, and automating security testing.
+🔍 **Focus:** Crushing app vulnerabilities, hunting bugs and automating security testing.
 
 🛠️ **Current Project:** [AuthMutator](https://github.com/alpernae/AuthMutator) — Burp Suite extension for experimenting with authentication issues and attack simulations.
 

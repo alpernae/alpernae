@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Hi 👋, I'm Alperen</h1>
 <h3>Application Security Researcher</h3>
-  <img src="https://komarev.com/ghpvc/?username=alpernae&color=green" alt="Visitor Count" /> <img src="https://img.shields.io/github/stars/alpernae?style=flat&logo=github&label=Total%20Stars&color=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=alpernae&color=yellow" alt="Visitor Count" /> <img src="https://img.shields.io/github/stars/alpernae?style=flat&logo=github&label=Total%20Stars&color=white"/></a>
 </div>
 <p align="left">   
   I’m an application security researcher and tool developer who treats security as a product feature.  

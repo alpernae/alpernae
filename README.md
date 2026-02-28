@@ -4,10 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=alpernae&color=yellow" alt="Visitor Count" /> <img src="https://img.shields.io/github/stars/alpernae?style=flat&logo=github&label=Total%20Stars&color=white"/></a>
 </div>
 <p align="left">   
-  I’m an application security researcher and tool developer who treats security as a product feature.  
-  I hunt vulnerabilities through bug bounties, run intensive fuzzing campaigns, and build automation  
-  to catch flaws earlier in the pipeline. I’m exploring AI-assisted triage and detection to scale secure  
-  development across teams. Always open to collaborating on tooling, audits, or POCs. </p>
+I’m an Application Security Researcher and part-time bug bounty hunter. 
+My focus is on identifying vulnerabilities and building automation offensive security tools. </p>
 
 <div align="left">
 

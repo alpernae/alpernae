@@ -16,7 +16,6 @@ My focus is on identifying vulnerabilities and building automation offensive sec
   
 </div>
 
-
 ### What I’m Building & Learning
 
 🔍 **Focus:** Crushing app vulnerabilities, hunting bugs and automating security testing.

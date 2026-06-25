@@ -20,7 +20,7 @@ My focus is on identifying vulnerabilities and building automation offensive sec
 
 🔍 **Focus:** Crushing app vulnerabilities, hunting bugs and automating security testing.
 
-🛠️ **Current Project:** N/A
+🛠️ **Current Project:** ![Vulenrify](https://vulnerify.com)
 
 🌱 **Learning:** **Game Hacking** — exploring memory manipulation, cheat detection, and reverse engineering.
 

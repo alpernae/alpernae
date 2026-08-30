@@ -1,55 +1,63 @@
 <div align="center">
-<h1>Hi 👋, I'm Alperen</h1>
-<h3>Application Security Researcher</h3>
-  <img src="https://komarev.com/ghpvc/?username=alpernae&color=yellow" alt="Visitor Count" /> <img src="https://img.shields.io/github/stars/alpernae?style=flat&logo=github&label=Total%20Stars&color=white"/></a>
+
+<h1>Alperen Ergel</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1200&color=F7F7F7&center=true&vCenter=true&width=500&lines=Application+Security+Researcher;CVEs+Disclosed+%C2%B7+Bugs+Reported+%C2%B7+Tools+Built;Web+%C2%B7+Source+Code+%C2%B7+Mobile+Security" alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=alpernae&color=yellow" alt="Visitor Count" />
+<img src="https://img.shields.io/github/stars/alpernae?style=flat&logo=github&label=Total%20Stars&color=white" />
+
+<br/><br/>
+
+<a href="https://github.com/alpernae"><img src="https://img.shields.io/badge/-@alpernae-FFFFFF?style=flat&logo=Github&logoColor=black" /></a>
+<a href="https://hackerone.com/alpernae?type=user"><img src="https://img.shields.io/badge/HackerOne-FFFFFF?style=flat&logo=hackerone&logoColor=black" /></a>
+<a href="https://app.intigriti.com/profile/alpernae"><img src="https://img.shields.io/badge/Intigriti-FFFFFF?style=flat&logo=intigriti&logoColor=black" /></a>
+<a href="https://www.exploit-db.com/?author=10463"><img src="https://img.shields.io/badge/Exploit_DB-FFFFFF?style=flat&logo=exploitdb&logoColor=black" /></a>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=alpernae&theme=tokyonight&hide_border=true" height="150"/>
+
 </div>
-<p align="left">   
-I’m an Application Security Researcher and part-time bug bounty hunter. 
-My focus is on identifying vulnerabilities and building automation offensive security tools. </p>
 
-<div align="left">
+---
 
-[![Github Badge](https://img.shields.io/badge/-@alpernae-FFFFFF?style=flat&logo=Github&logoColor=black&link=https://github.com/alpernae)](https://github.com/alpernae)
-[![HackerOne](https://img.shields.io/badge/HackerOne-FFFFFF?style=flat&logo=hackerone&logoColor=black)](https://hackerone.com/alpernae?type=user) 
-[![Intigriti](https://img.shields.io/badge/Intigriti-FFFFFF?style=flat&logo=intigriti&logoColor=black)](https://app.intigriti.com/profile/alpernae)
-[![Exploit_DB](https://img.shields.io/badge/Exploit_DB-FFFFFF?style=flat&logo=exploitdb&logoColor=black)](https://www.exploit-db.com/?author=10463)
-  
-</div>
+I break things, find what shouldn't be there, and build tools to do it faster — focused on web, source code, and mobile security. CVEs disclosed. Bugs reported. Tools built when nothing else fits.
 
-### What I’m Building & Learning
+---
 
-🔍 **Focus:** Crushing app vulnerabilities, hunting bugs and automating security testing.
+### 🔓 CVEs
 
-🛠️ **Current Project:** [Vulenrify](https://vulnerify.com)
+| ID | Product | Type | Severity |
+|----|---------|------|----------|
+| [CVE-2024-40422](https://www.cve.org/CVERecord?id=CVE-2024-40422) | Devika v1 | Path Traversal | ![](https://img.shields.io/badge/CRITICAL-9.1-red?style=flat) |
+| [CVE-2022-28132](https://www.cve.org/CVERecord?id=CVE-2022-28132) | T-Soft E-Commerce 4 | SQLi | ![](https://img.shields.io/badge/HIGH-7.2-orange?style=flat) |
+| [GHSA-hv93-r4j3-q65f](https://github.com/advisories/GHSA-hv93-r4j3-q65f) | OpenClaw | Auth Bypass | ![](https://img.shields.io/badge/HIGH-7.1-orange?style=flat) |
 
-🌱 **Learning:** **Game Hacking** — exploring memory manipulation, cheat detection, and reverse engineering.
+---
 
-🤝 **Collaborating On:** Open-source tooling for CI/CD security and automated app-sec workflows.
+### 🔭 Building
 
-💡 **Fun Fact:** I once found a critical bug at 3 AM fueled by coffee and sheer curiosity caffeine + curiosity = 🔥.
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| **[Vulnerify](https://vulnerify.com)** | Security testing platform for automated vulnerability discovery | Python, Go |
 
+---
 
-### Blog & Write-Ups
+### ⚡ Right Now
 
-I love sharing what I learn from my security research and bug bounty adventures. Here’s a glimpse of my recent posts:
+- 🐛 Hunting on HackerOne & Intigriti
+- 🛠️ Building offensive security automation tooling
+- 🤝 Open to collaborating on open-source appsec tooling
 
-+ [**Uncovering Path Traversal in Devika v1: A Deep Dive into CVE-2024-40422**](https://medium.com/@alpernae/uncovering-path-traversal-in-devika-v1-a-deep-dive-into-cve-2024-40422-f8ce81398b99)   
-  _I walk through how I discovered this path traversal vulnerability in Devika v1, the risks it posed, and the steps I took to mitigate it._
+---
 
-+ [**The Ghost in the Commit: RCE in GitHub Actions via Command Injection**](https://medium.com/@alpernae/the-ghost-in-the-commit-rce-in-github-actions-via-command-injection-b6f61cb9a813)   
-  _I break down how a small mistake in a GitHub Actions workflow can turn into command injection and lead to remote code execution._
+### 🛠️ Stack
 
-+ [**The Unsafe Send: How an HTTP Client Library Led to Remote Code Execution**](https://medium.com/@alpernae/the-unsafe-send-how-an-http-client-library-led-to-remote-code-execution-5aa1c89206c5)   
-  _I explain how unsafe request handling inside an HTTP client library opened the door to remote code execution._
-  
-
-### Let's Connect!
-
-[![X](https://img.shields.io/badge/X-white.svg?logo=X&logoColor=black)](https://x.com/alpernae)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alpernae) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alpernae) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alpernae) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@alpernae) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/alpernae)
-
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)

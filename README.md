@@ -33,7 +33,7 @@ I break things, find what shouldn't be there, and build tools to do it faster â€
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| **[Vulnerify](https://vulnerify.com)** | Security testing platform for automated vulnerability discovery | Python, Go |
+| **[N/A](-)** | Security testing platform for automated vulnerability discovery | Python, Go |
 
 ---
 

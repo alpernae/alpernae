@@ -28,15 +28,6 @@ I break things, find what shouldn't be there, and build tools to do it faster �
 
 ---
 
-### 🔓 CVEs
-
-| ID | Product | Type | Severity |
-|----|---------|------|----------|
-| [CVE-2024-40422](https://www.cve.org/CVERecord?id=CVE-2024-40422) | Devika v1 | Path Traversal | ![](https://img.shields.io/badge/CRITICAL-9.1-red?style=flat) |
-| [CVE-2022-28132](https://www.cve.org/CVERecord?id=CVE-2022-28132) | T-Soft E-Commerce 4 | SQLi | ![](https://img.shields.io/badge/HIGH-7.2-orange?style=flat) |
-| [GHSA-hv93-r4j3-q65f](https://github.com/advisories/GHSA-hv93-r4j3-q65f) | OpenClaw | Auth Bypass | ![](https://img.shields.io/badge/HIGH-7.1-orange?style=flat) |
-
----
 
 ### 🔭 Building
 
